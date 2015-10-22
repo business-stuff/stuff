@@ -7,5 +7,5 @@ assaa
 dfgsdgsd
 dsdsd
 not one
-dictate
+
 # this is not a php file
