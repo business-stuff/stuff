@@ -4,7 +4,7 @@ NO
 */
 not
 maybe
-as well
+/*as well
 more 
 lines
-and such
+*/and such
