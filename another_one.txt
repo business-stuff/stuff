@@ -1,1 +1,3 @@
-new fiel for stuff!
+new file for stuff!
+
+okay, fixed typo's
